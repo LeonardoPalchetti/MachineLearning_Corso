@@ -42,7 +42,7 @@ Il comando sopra crea una cartella `MachineLearning-con-applicazioni`. Una volta
 $ cd MachineLearning-con-applicazioni
 $ jupyter lab
 ```
-Questo apre una nuova tavola nel browser all'indirizzo `localhost:8888`. Cliccando sulla cartella `Esempi1-introzione` e poi su `PythonIntro_FunzioniPerRegrLin.ipynb`, si è pronti ad iniziare!
+Questo apre una nuova tavola nel browser all'indirizzo `localhost:8888`. Cliccando sulla cartella `Esempi1-Introduzione` e poi su `PythonIntro_FunzioniPerRegrLin.ipynb`, si è pronti ad iniziare!
 
 
 ## Istallare jupyter sul proprio computer
