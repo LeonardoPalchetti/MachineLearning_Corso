@@ -6,7 +6,7 @@ La componente computazionale del corso usa *python 3.x* e fogli note (notebooks)
 Siccome non sarà possibile accedere fisicamente al laboratorio di calcolo per le lezioni, i notebook verrnno descritti e spiegati durante le normali lezioni (telematiche). 
 
 
-Per accedere alla repository: [https://gitlab.com/craolus/machine-learning-con-applicazioni.git](https://gitlab.com/craolus/machine-learning-con-applicazioni.git). (**NB:** I juputer notebook possono anche essere scaricati direttamente dal sito usando l'icona a destra vicino a 'clone'.)
+Per accedere alla repository: [https://gitlab.com/craolus/MachineLearning-con-applicazioni.git](https://gitlab.com/craolus/MachineLearning-con-applicazioni.git). (**NB:** I juputer notebook possono anche essere scaricati direttamente dal sito usando l'icona a destra vicino a 'clone'.)
 
 
 ## Come aggiornare la copia locale della repository
@@ -35,11 +35,11 @@ $ which python
 ```
 Per clonare la repository
 ```bash
-$ git clone git@gitlab.com:craolus/machine-learning-con-applicazioni.git
+$ git clone git@gitlab.com:craolus/MachineLearning-con-applicazioni.git
 ```
-Il comando sopra crea una cartella `machine-learning-con-applicazioni`. Una volta entrati nella caterlla, jupiter viene invocato digitando `jupyter lab` da terminale:
+Il comando sopra crea una cartella `MachineLearning-con-applicazioni`. Una volta entrati nella caterlla, jupiter viene invocato digitando `jupyter lab` da terminale:
 ```bash
-$ cd machine-learning-con-applicazioni
+$ cd MachineLearning-con-applicazioni
 $ jupyter lab
 ```
 Questo apre una nuova tavola nel browser all'indirizzo `localhost:8888`. Cliccando sulla cartella `Esempi1-introzione` e poi su `PythonIntro_FunzioniPerRegrLin.ipynb`, si è pronti ad iniziare!
