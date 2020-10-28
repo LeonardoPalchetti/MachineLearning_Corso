@@ -1,6 +1,6 @@
 # Programmi in Python per il corso di "Machine Learning con Applicazioni".
 I programmi in questa repository sono parte integrante del suddetto Dipartimento di Fisica dell'Univestità degli Studi di Milano.
-Sono stati preparati in origine dal Dott Francesc Font-Clos e aggiornati da C. Barbieri per il **primo semestre, a.a. 2020/21**.
+I Python notebooks in questa repository sono in gran parte dovuti al Prof. M. Hjorth-Jensen e derivano dagli esempi usati per l'omonimo corso all'università di Oslo. Tutti file qui presenti sono stati adattati da C. Barbieri per il **primo semestre, a.a. 2020/21**.
 
 La componente computazionale del corso usa *python 3.x* e fogli note (notebooks) di *jupyter*. I notebook in ogni cartella approfondiscono un particolare argomento trattato a lezione.
 Siccome non sarà possibile accedere fisicamente al laboratorio di calcolo per le lezioni, i notebook verrnno descritti e spiegati durante le normali lezioni (telematiche). 
@@ -13,10 +13,10 @@ Per accedere alla repository: [https://gitlab.com/craolus/MachineLearning-con-ap
 Man mano che il nuovo materiale viene aggiunto durante il semestre, si può aggiornare la copia locale della repository come segue (se già clonata come descritto più avanti):
 
 ```bash
-$ cd stat-mech-python-course
+$ cd MachineLearning-con-applicazioni
 $ git pull
 ```
-È bene ricordarsi di **cambiare il nome dei file di notebook** su sui si sta lavorando, per non sovrascriverne il contenuto.
+È bene ricordarsi di **cambiare il nome dei file di notebook** su cui si sta lavorando, per non sovrascriverne il contenuto.
 
 
 ## Primi Passi
