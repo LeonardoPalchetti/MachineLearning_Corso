@@ -35,9 +35,13 @@ $ which python
 ```
 Per clonare la repository
 ```bash
+$ git clone https://gitlab.com/craolus/MachineLearning-con-applicazioni.git
+```
+oppure
+```bash
 $ git clone git@gitlab.com:craolus/MachineLearning-con-applicazioni.git
 ```
-Il comando sopra crea una cartella `MachineLearning-con-applicazioni`. Una volta entrati nella caterlla, jupiter viene invocato digitando `jupyter lab` da terminale:
+Il comando sopra crea una cartella `MachineLearning-con-applicazioni` (N.B.: che la seconda opzione, via ssh, può richiedere unb account su GitLab ed una public key. usare https in caso di problemi). Una volta entrati nella caterlla, jupiter viene invocato digitando `jupyter lab` da terminale:
 ```bash
 $ cd MachineLearning-con-applicazioni
 $ jupyter lab
