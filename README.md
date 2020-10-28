@@ -35,14 +35,14 @@ $ which python
 ```
 Per clonare la repository
 ```bash
-$ git clone git@gitlab.com:craolus/MeccStat-sessioni-python.git
+$ git clone git@gitlab.com:craolus/machine-learning-con-applicazioni.git
 ```
-Il comando sopra crea una cartella `MeccStat-sessioni-python`. Una volta entrati nella caterlla, jupiter viene invocato digitando `jupyter lab` da terminale:
+Il comando sopra crea una cartella `machine-learning-con-applicazioni`. Una volta entrati nella caterlla, jupiter viene invocato digitando `jupyter lab` da terminale:
 ```bash
-$ cd MeccStat-sessioni-python
+$ cd machine-learning-con-applicazioni
 $ jupyter lab
 ```
-Questo apre una nuova tavola nel browser all'indirizzo `localhost:8888`. Cliccando sulla cartella `sessione-1-introzione-alle-probabilita` e poi su `1.1-Generating-Random-Numbers.ipynb`, si è pronti ad iniziare!
+Questo apre una nuova tavola nel browser all'indirizzo `localhost:8888`. Cliccando sulla cartella `Esempi1-introzione` e poi su `PythonIntro_FunzioniPerRegrLin.ipynb`, si è pronti ad iniziare!
 
 
 ## Istallare jupyter sul proprio computer
