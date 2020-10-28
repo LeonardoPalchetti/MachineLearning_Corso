@@ -33,15 +33,13 @@ Sul proprio computer, conviene controllare che Anaconda e python siano presenti
 $ which python
 /home/username/anaconda3/bin/python
 ```
-Per clonare la repository
+Per clonare la repository usare uno dei seguenti comandi:
 ```bash
 $ git clone https://gitlab.com/craolus/MachineLearning-con-applicazioni.git
-```
 oppure
-```bash
 $ git clone git@gitlab.com:craolus/MachineLearning-con-applicazioni.git
 ```
-Il comando sopra crea una cartella `MachineLearning-con-applicazioni` (N.B.: la seconda opzione, via ssh, può richiedere un account su GitLab ed una public key. Usare `https` in caso di problemi). Una volta entrati nella caterlla, jupiter viene invocato digitando `jupyter lab` da terminale:
+Questo crea una cartella `MachineLearning-con-applicazioni` (N.B.: la seconda opzione, via ssh, può richiedere un account su GitLab ed una public key. Se da errori, usare `https` invece). Una volta entrati nella caterlla, jupiter viene invocato digitando `jupyter lab` da terminale:
 ```bash
 $ cd MachineLearning-con-applicazioni
 $ jupyter lab
